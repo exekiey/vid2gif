@@ -1,2 +1,2 @@
 # vid2gif
-A simple tool to turns videos into gifs &lt;3
+A simple tool to turn videos into gifs &lt;3
